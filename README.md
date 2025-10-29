@@ -3,7 +3,7 @@
 <!-- Header Section -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 80%; margin: auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
   <h1>Hi 👋, I'm <span style="color:#007acc;">Vinit Pansuriya</span></h1>
-  <p><em>Machine Learning Enthusiast | Data Science Learner | Developer</em></p>
+  <p><em>Machine Learning Enthusiast</em></p>
 </div>
 
 <br>
@@ -70,16 +70,19 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=VNIT-07&limit=5&theme=bear&combine_all_yearly_contributions=true" alt="Top Repositories" />
 </p>
 
-<hr>
-
-<!-- Visitor Counter -->
+<h2 align="center">🤝 Let's Connect!</h2>
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=VNIT-07&icon=0&color=0" alt="Visitor Count" />
+  <a href="mailto:vinitpansuriya23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/VNIT-07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinit-pansuriya-091398265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <sub><i>✨ Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> ✨</i></sub>
-</p>
+<hr>
+
+
