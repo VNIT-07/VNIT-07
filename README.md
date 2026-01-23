@@ -13,8 +13,6 @@
 <ul>
   <li>🔭 I’m currently working on <strong>Machine Learning projects</strong></li>
   <li>🌱 I’m currently learning <strong>Machine Learning and Artificial Intelligence</strong></li>
-  <li>💬 Ask me about <strong>Python, Data Analysis, and Model Building</strong></li>
-  <li>⚡ Fun fact: I enjoy solving <strong>real-world problems using data-driven approaches</strong></li>
 </ul>
 
 <br>
