@@ -65,7 +65,7 @@
 <!-- Top Contributed Repos -->
 <h3>🔝 Top Contributed Repo</h3>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=VNIT-07&limit=5&theme=bear&combine_all_yearly_contributions=true" alt="Top Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=VNIT-07&limit=5&theme=bear&combine_all_yearly_contributions=true" alt="Top Repositories"/>
 </p>
 
 <h2 align="center">🤝 Let's Connect!</h2>
