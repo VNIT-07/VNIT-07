@@ -53,20 +53,12 @@
 <br>
 
 <!-- GitHub Stats Section -->
-<h2>📊 GitHub Stats:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VNIT-07&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VNIT-07&theme=ayu-mirage&hide_border=false" alt="GitHub Streak Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VNIT-07&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+
 
 <br>
 
 <!-- Top Contributed Repos -->
-<h3>🔝 Top Contributed Repo</h3>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=VNIT-07&limit=5&theme=bear&combine_all_yearly_contributions=true" alt="Top Repositories"/>
-</p>
+
 
 <h2 align="center">🤝 Let's Connect!</h2>
 <p align="center">
