@@ -53,7 +53,7 @@
 <br>
 
 <!-- GitHub Stats Section -->
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=VNIT-07)](https://github.com/VNIT-07/github-profile-trophy)
 
 <br>
 
