@@ -53,8 +53,7 @@
 <br>
 
 <!-- GitHub Stats Section -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=VNIT-07)](https://github.com/VNIT-07/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=VNIT-07&theme=gruvbox&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 <!-- Top Contributed Repos -->
