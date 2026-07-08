@@ -51,9 +51,9 @@ I am passionate about Machine Learning, Artificial Intelligence, and Data Scienc
 <div align="center">
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VNIT-07&show_icons=true&hide_border=true&rank_icon=github" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=VNIT-07&show_icons=true&hide_border=true&rank_icon=github" /> -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VNIT-07&layout=compact&hide_border=true" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VNIT-07&layout=compact&hide_border=true" /> -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VNIT-07&theme=github" />
 
