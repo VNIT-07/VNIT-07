@@ -52,7 +52,7 @@ I am passionate about Machine Learning, Artificial Intelligence, and Data Scienc
 
 </p>
 
----
+<!-- ---
 
 ## GitHub Statistics
 
@@ -64,7 +64,7 @@ I am passionate about Machine Learning, Artificial Intelligence, and Data Scienc
 
 </div>
 
----
+----->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=VNIT-07&label=Profile%20Views&color=0e75b6&style=flat" />
