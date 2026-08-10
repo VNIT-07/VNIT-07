@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="892" height="316" viewBox="0 0 892 316" role="img" aria-label="3D ASCII wordmark: VINIT">
   <defs>
     <linearGradient id="wm-vnit-07-aurora-bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0b0e14"/>
+      <stop offset="0" stop-color="#111722"/><stop offset="0" stop-color="#0b0e14"/>
     </linearGradient>
     <clipPath id="wm-vnit-07-aurora-wipe"><rect x="18" y="41.2" height="263.5" width="0">
       <animate attributeName="width" from="0" to="855.5999999999999" begin="0.2s" dur="2.1999999999999997s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
