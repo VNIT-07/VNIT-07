@@ -46,36 +46,35 @@ I am passionate about Machine Learning, Artificial Intelligence, and Data Scienc
 
 <table>
   <tr>
-    <td align="center">
-      <a href="./certificates/ai-fluency.pdf" target="/">
-        <img src="./certificates/ai.png" width="200" alt="AI Fluency Certificate" />
+    <td align="center" width="33%">
+      <a href="./certificates/ai-fluency.pdf" target="_blank">
+        <img src="./certificates/ai.png" width="200" height="140" alt="AI Fluency Certificate" />
       </a>
-      <br />
+      <br /><br />
       <b>AI Fluency: Framework & Foundations</b>
       <br />
       Anthropic, 2026
     </td>
-    <td align="center">
-      <a href="./certificates/drone-technology.pdf" target="/">
-        <img src="./certificates/drone.png" width="200" alt="Drone Technology Certificate" />
+    <td align="center" width="33%">
+      <a href="./certificates/drone-technology.pdf" target="_blank">
+        <img src="./certificates/drone.png" width="200" height="140" alt="Drone Technology Certificate" />
       </a>
-      <br />
+      <br /><br />
       <b>Drone Technology: Key Skills and Practical Applications</b>
       <br />
       S.V. National Institute of Technology, Surat, 2025
     </td>
-    <td align="center">
-      <a href="./certificates/iot-bootcamp.pdf" target="/">
-        <img src="./certificates/iot.png" width="200" alt="IoT Bootcamp Certificate" />
+    <td align="center" width="33%">
+      <a href="./certificates/iot-bootcamp.pdf" target="_blank">
+        <img src="./certificates/iot.png" width="200" height="140" alt="IoT Bootcamp Certificate" />
       </a>
-      <br />
+      <br /><br />
       <b>IoT Bootcamp: Cloud Integration and Emotion-Aware Bots</b>
       <br />
       Shri Ramkrishna Institute of Computer Education and Applied Sciences, 2025
     </td>
   </tr>
 </table>
----
 
 ## Contact
 
