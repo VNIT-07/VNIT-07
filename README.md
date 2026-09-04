@@ -48,16 +48,16 @@ I am passionate about Machine Learning, Artificial Intelligence, and Data Scienc
   <tr>
     <td align="center">
       <a href="./certificates/ai-fluency.pdf" target="/">
-        <img src="./assets/certificates/ai-fluency.png" width="200" alt="AI Fluency Certificate" />
+        <img src="./certificates/ai.png" width="200" alt="AI Fluency Certificate" />
       </a>
       <br />
       <b>AI Fluency: Framework & Foundations</b>
       <br />
-      Anthropic, [Year]
+      Anthropic, 2026
     </td>
     <td align="center">
       <a href="./certificates/drone-technology.pdf" target="/">
-        <img src="./assets/certificates/drone-technology.png" width="200" alt="Drone Technology Certificate" />
+        <img src="./certificates/drone.png" width="200" alt="Drone Technology Certificate" />
       </a>
       <br />
       <b>Drone Technology: Key Skills and Practical Applications</b>
@@ -66,7 +66,7 @@ I am passionate about Machine Learning, Artificial Intelligence, and Data Scienc
     </td>
     <td align="center">
       <a href="./certificates/iot-bootcamp.pdf" target="/">
-        <img src="./assets/certificates/iot-bootcamp.png" width="200" alt="IoT Bootcamp Certificate" />
+        <img src="./certificates/iot.png" width="200" alt="IoT Bootcamp Certificate" />
       </a>
       <br />
       <b>IoT Bootcamp: Cloud Integration and Emotion-Aware Bots</b>
