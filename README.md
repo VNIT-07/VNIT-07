@@ -14,14 +14,13 @@ Machine Learning Enthusiast
 
 ## About
 
-I am passionate about Machine Learning, Artificial Intelligence, and Data Science. I enjoy building practical projects, exploring emerging technologies, and improving my problem-solving abilities through continuous learning.
+I am passionate about Machine Learning and Artificial Intelligence. I enjoy building practical projects, exploring emerging technologies, and improving my problem-solving abilities through continuous learning.
 
 ---
 
 ## Current Focus
 
 - Working on Machine Learning projects
-- Learning Machine Learning and Artificial Intelligence
 - Exploring Data Analysis and Predictive Modeling
 
 ---
@@ -64,7 +63,7 @@ I am passionate about Machine Learning, Artificial Intelligence, and Data Scienc
       <br />
       S.V. National Institute of Technology, Surat, 2025
     </td>
-    <td align="center" width="33%">
+    <!-- <td align="center" width="33%">
       <a href="./certificates/iot-bootcamp.pdf" target="_blank">
         <img src="./certificates/iot.png" width="200" height="140" alt="IoT Bootcamp Certificate" />
       </a>
@@ -72,7 +71,7 @@ I am passionate about Machine Learning, Artificial Intelligence, and Data Scienc
       <b>IoT Bootcamp: Cloud Integration and Emotion-Aware Bots</b>
       <br />
       Shri Ramkrishna Institute of Computer Education and Applied Sciences, 2025
-    </td>
+    </td> -->
   </tr>
 </table>
 
